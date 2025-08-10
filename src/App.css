@@ -1,0 +1,17 @@
+#root {
+  width: 100vw;
+  min-height: 100vh;
+  margin: 0;
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 7rem;
+  align-items: center;
+  position: relative;
+}
+
+@media (max-width: 768px) {
+  #root {
+    gap: 3rem;
+  }
+}
