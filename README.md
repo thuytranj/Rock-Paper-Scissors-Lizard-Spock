@@ -31,19 +31,18 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](https://github.com/thuytranj/Rock-Paper-Scissors-Lizard-Spock/blob/0050d77763e43613866f56bf93de21f11e8abc3b/design/bonus/desktop-step-1-bonus.jpg)
+![](https://github.com/thuytranj/Rock-Paper-Scissors-Lizard-Spock/blob/0050d77763e43613866f56bf93de21f11e8abc3b/design/bonus/desktop-step-4-bonus.jpg)
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Click here](https://thuytranj.github.io/Rock-Paper-Scissors-Lizard-Spock/)
 
 ## My process
 
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
+- Tailwind CSS
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
